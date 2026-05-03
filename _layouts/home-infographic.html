@@ -12,13 +12,21 @@ layout: page
   </div>
   <div class="col-md-3">  
 
-    {% include index/time.html %}
+    {% include index/time.html btn-color="success" %}
+
+  </div>
+  <div class="col-md-3">
 
     {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
+  </div>
+  <div class="col-md-3"
 
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
+    {% include index/featured-terms.html field="location" title="Locations" btn-color="success" %}
 
-    {% include index/objects.html %}
+  </div>
+  <div class="col-md-3">
+
+    {% include index/objects.html btn-color="primary" %}
 
   </div>
   <div class="col-md-12">
