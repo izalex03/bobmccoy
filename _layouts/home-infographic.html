@@ -7,23 +7,25 @@ layout: page
   <div class="col-md-12">
 
     {% include index/description.html %}
-    {% include index/carousel.html title="McCoy's Features" height="400" btn-color="info" %}
+    {% include index/carousel.html title="McCoy's Features" height="400" btn-color="secondary" %}
   
   </div>
   <div class="col-md-4">  
 
     {% include index/time.html btn-color="success" %}
-
-  </div>
-  <div class="col-md-4">
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
     
+    <div>
+    <div class="col-md-4">
+      
+      {% include index/objects.html btn-color="success" %}
+
+  </div>
+
   </div>
   <div class="col-md-4">
 
-    {% include index/objects.html btn-color="success" %}
-
+    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="success" %}
+    
   </div>
   <div class="col-md-12">
 
