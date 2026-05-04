@@ -14,6 +14,15 @@ credits: true
 
 ## About the Collection
 
+This collection features materials about the life and work of Bob McCoy, notably his work with the [Museum of Questionable Medical Devices[(https://museumofquackery.com/) as its curator and proprietor. 
+
+## About Bob McCoy
+
+Robert Wilson "Bob" McCoy wore many hats throughout his life. From Golden Valley, Minnesota, McCoy worked as a steel salesman for most of his career. He was also an American Humanist minister. Throughout his life, McCoy advocated for skepticism and humanism, two values which he saw as vital to encourage in the people of the world around him. 
+
+In the 1960s, McCoy lobbied for prison reforms and ran an underground abortion clinic until the passing of *Roe v. Wade* legalized abortion nationwide. 
+
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
