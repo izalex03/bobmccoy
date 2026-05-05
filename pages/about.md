@@ -35,6 +35,9 @@ After receiving more-than-expected news media attention on the psychograph, the 
 McCoy died May 23, 2010, from Alzheimer's disesase in a St. Louis Park care facility. He was survived by his wife, Jean Margaret Horrobin McCoy, who enjoyed a long career as a pediatric physician and died in 2024. Additionally, he is survived by his children, Bruce McCoy (Los Angeles), Doug McCoy (Yuba City, CA), Heather McCoy (Hollidaysburg, PA), and five grandchildren. 
 
 His legacy of humanism and skepticism remains incredibly influential and much-needed in today's world infiltrated by uncertainty in the differences between truth and quack and an erosion of trust between people and their societies.
+
+{% include feature/video.html objectid="https://geo.dailymotion.com/player.html?video=x5xfs17" caption="Bob McCoy on David Letterman's The Late Show, Nov. 7, 1996!" width="50" %}
+
 ## About the Site
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
