@@ -16,7 +16,7 @@ credits: true
 
 This collection features materials about the life and work of Bob McCoy, notably his work with the [Museum of Questionable Medical Devices](https://museumofquackery.com/) as its curator and proprietor.
 
-{% include feature/card.html header="What You Can See Here" text="Page through the Browse page to see videos, podcasts, and news articles about the Museum and the weird objects McCoy collected and displayed there, or collected information about Bob McCoy's life, retirement, and death." width="100" centered=true %}
+{% include feature/card.html header="What You Can See Here" text="Page through the Browse page to see videos, podcasts, and news articles about the Museum and the weird objects McCoy collected and displayed there, or collected information about Bob McCoy's life, retirement, and death." width="50" centered=true %}
 
 ## About Bob McCoy
 
@@ -27,8 +27,6 @@ Robert Wilson "Bob" McCoy wore many hats throughout his life. From Golden Valley
 In the 1960s, McCoy lobbied for prison reforms and ran an underground abortion clinic until the passing of *Roe v. Wade* legalized abortion nationwide--at which time he became director of Minnesota's first legal abortion clinic, Meadowbrook Women's Clinic in St. Louis Park. It was in the sixties where McCoy first met John D. White at a fundraiser for the Minneapolis Institute of Art. White, the son of Frank P. White, had almost thirty defunct psychograph machines that his father, who was a financial backer of inventor Henry C. Lavery in the 1920s and 30s, left behind after his death. 
 
 McCoy, a lifetime tinkerer, promised White that he could fix some of the machines. The two made good use of the machines locally at parties and fundraisers until McCoy acquired space at the Riverplace shopping and entertainment complex in Minneapolis in 1984 and began exhibiting the machines permanently.
-
-{% include feature/pdf.html objectid="mccoy-quack" width="50" %}
 
 After receiving more-than-expected news media attention on the psychograph, the American Medical Association in Chicago, the Food and Drug Administration in Minneapolis, and the St. Louis Science Center lent McCoy's burgeoning museum more "quack" medical devices to exhibit. In the late 1980s, a permanent museum location opened. The museum would close in 2002, when McCoy retired. Alongside McCoy, the museum was primarily run and operated by Shawne FitzGerald and James Satter.
 
