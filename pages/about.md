@@ -30,6 +30,8 @@ McCoy, a lifetime tinkerer, promised White that he could fix some of the machine
 
 After receiving more-than-expected news media attention on the psychograph, the American Medical Association in Chicago, the Food and Drug Administration in Minneapolis, and the St. Louis Science Center lent McCoy's burgeoning museum more "quack" medical devices to exhibit. In the late 1980s, a permanent museum location opened. The museum would close in 2002, when McCoy retired. Alongside McCoy, the museum was primarily run and operated by Shawne FitzGerald and James Satter.
 
+{% include feature/pdf.html objectid="quack-preface" width="50" %}
+
 McCoy died May 23, 2010, from Alzheimer's disesase in a St. Louis Park care facility. He was survived by his wife, Jean Margaret Horrobin McCoy, who enjoyed a long career as a pediatric physician and died in 2024. Additionally, he is survived by his children, Bruce McCoy (Los Angeles), Doug McCoy (Yuba City, CA), Heather McCoy (Hollidaysburg, PA), and five grandchildren. 
 
 His legacy of humanism and skepticism remains incredibly influential and much-needed in today's world infiltrated by uncertainty in the differences between truth and quack and an erosion of trust between people and their societies.
