@@ -16,7 +16,7 @@ credits: true
 
 This collection features materials about the life and work of Bob McCoy, notably his work with the [Museum of Questionable Medical Devices](https://museumofquackery.com/) as its curator and proprietor.
 
-{% include feature/card.html header="What You Can See Here" text="Page through the Browse page to see videos, podcasts, and news articles about the Museum and the weird objects McCoy collected and displayed there, or collected information about Bob McCoy's life, retirement, and death." width="50" centered=true %}
+{% include feature/card.html header="**What You Can See Here**" text="Page through the [Browse](https://izalex03.github.io/bobmccoy/browse.html) page to see videos, podcasts, and news articles about the Museum and the weird objects McCoy collected and displayed there, or collected information about Bob McCoy's life, retirement, and death." width="50" centered=true %}
 
 ## About Bob McCoy
 
@@ -30,7 +30,7 @@ McCoy, a lifetime tinkerer, promised White that he could fix some of the machine
 
 After receiving more-than-expected news media attention on the psychograph, the American Medical Association in Chicago, the Food and Drug Administration in Minneapolis, and the St. Louis Science Center lent McCoy's burgeoning museum more "quack" medical devices to exhibit. In the late 1980s, a permanent museum location opened. The museum would close in 2002, when McCoy retired. Alongside McCoy, the museum was primarily run and operated by Shawne FitzGerald and James Satter.
 
-{% include feature/pdf.html objectid="quack-preface" width="50" %}
+{% include feature/pdf.html objectid="mccoy-quack" width="50" %}
 
 McCoy died May 23, 2010, from Alzheimer's disesase in a St. Louis Park care facility. He was survived by his wife, Jean Margaret Horrobin McCoy, who enjoyed a long career as a pediatric physician and died in 2024. Additionally, he is survived by his children, Bruce McCoy (Los Angeles), Doug McCoy (Yuba City, CA), Heather McCoy (Hollidaysburg, PA), and five grandchildren. 
 
