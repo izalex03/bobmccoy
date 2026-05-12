@@ -10,13 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://museumofquackery.com/bob/BobPhrenHead92med.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About Bob McCoy;About the Site" %}
+{% include feature/nav-menu.html sections="About the Collection;About Bob McCoy" %}
 
 ## About the Collection
 
 This collection features materials about the life and work of Bob McCoy, notably his work with the [Museum of Questionable Medical Devices](https://museumofquackery.com/) as its curator and proprietor.
 
-{% include feature/card.html header="**What You Can See Here**" text="Page through the [Browse](https://izalex03.github.io/bobmccoy/browse.html) page to see videos, podcasts, and news articles about the Museum and the weird objects McCoy collected and displayed there, or collected information about Bob McCoy's life, retirement, and death." width="50" centered=true %}
+{% include feature/card.html header="What You Can See Here" centered=true text="Page through the [Browse](https://izalex03.github.io/bobmccoy/browse.html) page to see videos, podcasts, and news articles about the Museum and the weird objects McCoy collected and displayed there, or collected information about Bob McCoy's life, retirement, and death." width="50" centered=true %}
 
 ## About Bob McCoy
 
