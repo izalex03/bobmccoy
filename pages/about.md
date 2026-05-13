@@ -18,6 +18,14 @@ This collection features materials about the life and work of Bob McCoy, notably
 
 {% include feature/card.html header="What You Can See Here" centered=true text="Page through the [Browse](https://izalex03.github.io/bobmccoy/browse.html) page to see videos, podcasts, and news articles about the Museum and the weird objects McCoy collected and displayed there, or collected information about Bob McCoy's life, retirement, and death." width="50" centered=true %}
 
+I started curating this project while working as a research assistant to Dr. Brandee Easter (University of Tennessee). As we dove into the archives to search for "truth machines" - think devices like the polygraph, machines that tell us they tell the truth about our bodies - we discovered this weird phrenology device called the psychograph, invented in the early twentieth century by Henry C. Lavery of Superior, Wisconsin. The trouble is, there's almost nothing in any traditional archives about the psychograph, apart from some newspaper clippings; a simple Google search turns up almost nothing.
+
+Apart from Bob's museum, that is. 
+
+Brandee and I are beyond grateful and thankful to Bob McCoy, who carefully archived questionable medical devices like the psychograph and kept a good number of them in working order. I began this project as a way to reckon with the work that maintaining an archive requires, and to make visible the effort and presence of McCoy in Brandee and I’s current scholarship of studying the psychograph. Without him, it would be incredibly hard to find evidence that the psychograph existed. As a skeptic, I think McCoy would enjoy the academic extension of his museum, as Brandee and I interrogate the valuing of the machine over the human and the machines which claim to know some sort of truth about our bodies even we can’t express.
+
+I hope you enjoy getting to know Bob McCoy through the archive, as I have.
+
 ## About Bob McCoy
 
 Robert Wilson "Bob" McCoy wore many hats throughout his life. From Golden Valley, Minnesota, McCoy worked as a steel salesman for most of his career. He was also an American Humanist minister. Throughout his life, McCoy advocated for skepticism and humanism, two values which he saw as vital to encourage in the people of the world around him.
